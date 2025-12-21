@@ -16,10 +16,6 @@ Quantitative researcher working at the intersection of **data science, machine l
 </table>
 
 ---
-<img src="images/profile.jpg" width="180" align="right" style="border-radius: 50%;"/>
-Quantitative researcher working at the intersection of **data science, machine learning, and computational neuroscience**. I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML, with applications in neuroscience, ecology, and sustainability.
-
----
 
 ## Check out my Repositories:
 
