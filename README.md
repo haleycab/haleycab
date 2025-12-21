@@ -6,16 +6,11 @@
       <img src="Cabrera142.jpg" width="800" style="border-radius: 50%;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <p>
-  <p>
-    <big>
+      <h3>
       Quantitative researcher working at the intersection of <b>data science, machine learning, and computational neuroscience</b>.
       I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML,
       with applications in neuroscience, ecology, and sustainability.
-    </big>
-  </p>
-
-      </p>
+      </h3>
     </td>
   </tr>
 </table>
