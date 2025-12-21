@@ -36,14 +36,13 @@ Quantitative researcher working at the intersection of **data science, machine l
 
 ## 🧰 Tools & Tech Stack
 
-### Programming & Scientific Computing
+Programming & Scientific Computing
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
 </p>
-
-### Machine Learning & Modeling
+Machine Learning & Modeling
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -51,7 +50,7 @@ Quantitative researcher working at the intersection of **data science, machine l
   <img src="https://img.shields.io/badge/Dynamical_Systems-4B8BBE?style=flat"/>
 </p>
 
-### Data Science, Visualization & Infrastructure
+Data Science, Visualization & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
