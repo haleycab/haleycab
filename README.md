@@ -2,15 +2,15 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="width: 260px; vertical-align: top;" align="center">
+      <img src="Cabrera142.jpg" width="220" style="border-radius: 50%;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
       <p>
         Quantitative researcher working at the intersection of <b>data science, machine learning, and computational neuroscience</b>.
         I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML,
         with applications in neuroscience, ecology, and sustainability.
       </p>
-    </td>
-    <td style="width: 220px; vertical-align: top;" align="right">
-      <img src="Cabrera142.jpg" width="180" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
