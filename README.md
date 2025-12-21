@@ -1,71 +1,99 @@
 # Haley Cabrera
 
-I’m a quantitative researcher with interests at the intersection of **data science, machine learning, and computational neuroscience**. My work spans nonlinear dynamical systems, multimodal biological modeling, graph-based learning, and large-scale data analysis, with a focus on extracting structure from complex, noisy datasets.
-
-Below is a curated overview of my major projects and repositories.
+Quantitative researcher working at the intersection of **data science, machine learning, and computational neuroscience**. I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML, with applications in neuroscience, ecology, and sustainability.
 
 ---
 
-## 🌍 Data Science & Statistical Modeling
+## 🔗 Connect
 
-### World Happiness Modeling  
-🔗 Repo: https://github.com/haleycab/happinessproject  
-
-Statistical and machine learning analysis of global happiness indicators using **ridge/lasso regression, ensemble methods, PCA, and clustering**. The project explores latent structure and nonlinear relationships among economic, social, and cultural variables across countries, emphasizing interpretability and feature importance.
+<p align="left">
+  <a href="https://www.linkedin.com/in/haleyanncabrera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/haleycab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:haleyoro@uoregon.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### WiDS Datathon (Women in Data Science)  
-🔗 Personal Repo: https://github.com/haleycab/WiDsDatathon  
-🔗 Team Repo: https://github.com/itszoetom/WiDSdatathon  
+## 🧰 Tools & Tech Stack
 
-End-to-end modeling pipeline for a real-world prediction task using **feature engineering, cross-validation, and ensemble learning**. Focused on translating messy, high-dimensional tabular data into robust predictive models under competition constraints.
+### Programming & Scientific Computing
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
+</p>
+
+### Machine Learning & Modeling
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gaussian_Processes-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/Dynamical_Systems-4B8BBE?style=flat"/>
+</p>
+
+### Data Science & Analysis
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-2C5BB4?style=flat"/>
+</p>
+
+### Visualization, Web & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HPC-Talapas-4B8BBE?style=flat"/>
+</p>
 
 ---
 
-## 🌱 Sustainability, NLP & Web-Based Analytics
+## 📌 Projects
 
-### Quack Hacks – Sustainability & Greenwashing Analytics  
-🔗 Analysis Repo: https://github.com/haleycab/GreenBeans-QuackHacks2025  
+### 🌍 World Happiness Modeling  
+🔗 https://github.com/haleycab/happinessproject  
+
+Statistical and ML analysis of global happiness indicators using **ridge/lasso regression, ensemble methods, PCA, and clustering** to uncover latent structure and key drivers across economic, social, and cultural variables.
+
+---
+
+### 🌱 Quack Hacks – Sustainability & Greenwashing Analytics  
+🔗 Analysis: https://github.com/haleycab/GreenBeans-QuackHacks2025  
 🔗 Website Code: https://github.com/marytpham/nextjs-verdei  
 🔗 Live Site: https://nextjs-verdei.vercel.app/  
 
-Hackathon project combining **data analysis, NLP concepts, and web development** to surface sustainability metrics and potential greenwashing signals. I focused on data ingestion, exploratory analysis, and modeling logic, while collaborating on a **Next.js-based interactive dashboard** for public-facing visualization.
+Hackathon project combining **data analysis, NLP concepts, and interactive web visualization** to surface sustainability metrics and potential greenwashing signals using a **Next.js dashboard**.
 
 ---
 
-## 🧠 Computational Neuroscience & Biophysical Modeling
+### 🧠 Murray Lab – Computational Neuroscience  
+🔗 https://github.com/haleycab/murray-neuroscience-lab  
 
-### Murray Lab – Computational Neuroscience  
-🔗 Repo: https://github.com/haleycab/murray-neuroscience-lab  
-
-Research code and analysis pipelines for modeling neural circuits and neural data, including **time-series analysis, neural population dynamics, and model evaluation workflows**. This work supports ongoing research on spinal locomotor circuits and large-scale neural recordings.
+Analysis pipelines and modeling code for neural circuit data, including **time-series analysis, neural population dynamics, and model evaluation workflows** supporting research on spinal locomotor circuits.
 
 ---
 
-### FUSRP – Axonal Signal Propagation Modeling  
-🔗 Personal Repo: https://github.com/haleycab/axon-modeling-FUSRP05  
-🔗 Team Repo: https://github.com/Mathbioneurophilphyslogiccat/FUSRP-2025-Project-05  
+### 🧬 FUSRP – Axonal Signal Propagation Modeling  
+🔗 Personal: https://github.com/haleycab/axon-modeling-FUSRP05  
+🔗 Team: https://github.com/Mathbioneurophilphyslogiccat/FUSRP-2025-Project-05  
 
-Biophysical simulations of **action potential propagation in geometrically heterogeneous axons**, implemented using **finite-difference solvers and reaction–diffusion PDE models**. The project explores how myelin coverage, nodal geometry, and excitability interact to shape conduction speed and failure, supported by hundreds of large-scale simulations.
-
----
-
-## 🌊 Ecological & Dynamical Systems Modeling
-
-### NSF REU – Kansas Biological Survey  
-🔗 Repo: https://github.com/haleycab/Kansas-Biological-Survey  
-
-Applied **empirical dynamical modeling and Gaussian Process–based methods** to long-term NOAA ecological time-series data. Built cross-validated forecasting models to study nonlinear population dynamics and quantify the influence of environmental drivers through perturbation-based simulations and sensitivity analysis.
+Large-scale biophysical simulations of **action potential propagation in geometrically heterogeneous axons**, implemented with **finite-difference solvers and reaction–diffusion PDE models** to study how geometry and excitability shape conduction speed and failure.
 
 ---
 
-## 🛠 Tools & Methods
-- **Languages:** Python, R, MATLAB  
-- **ML & Modeling:** Gaussian processes, dynamical systems, neural networks (RNNs, GNNs, transformers), statistical learning  
-- **Data:** Large-scale biological time series, tabular datasets, graph-structured data  
-- **Workflow:** Reproducible pipelines, Git/GitHub, HPC environments, benchmarking & validation  
+### 🌊 NSF REU – Kansas Biological Survey  
+🔗 https://github.com/haleycab/Kansas-Biological-Survey  
+
+Applied **empirical dynamical modeling and Gaussian processes** to long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to analyze nonlinear population dynamics.
 
 ---
 
-If you’re interested in collaboration or have questions about any project, feel free to reach out!
+If you’re interested in collaboration, research, or applied ML work, feel free to reach out.
