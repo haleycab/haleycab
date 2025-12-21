@@ -6,10 +6,10 @@ Quantitative researcher working at the intersection of **data science, machine l
 
 ## 📌 Projects
 
-🌍 **[World Happiness Modeling](https://github.com/haleycab/happinessproject)**: Statistical and machine learning analysis of global happiness indicators using ridge/lasso regression, ensemble methods, PCA, and clustering to uncover latent structure and key drivers across economic, social, and cultural variables.
-
 
 🌱 **[Quack Hacks – Sustainability & Greenwashing Analytics](https://github.com/haleycab/GreenBeans-QuackHacks2025)**: Hackathon project combining data analysis, NLP concepts, and interactive web visualization to surface sustainability metrics and potential greenwashing signals. Includes a public-facing **Next.js dashboard** ([site](https://nextjs-verdei.vercel.app/)) and companion frontend code ([repo](https://github.com/marytpham/nextjs-verdei)).
+
+🌍 **[World Happiness Modeling](https://github.com/haleycab/happinessproject)**: Statistical and machine learning analysis of global happiness indicators using ridge/lasso regression, ensemble methods, PCA, and clustering to uncover latent structure and key drivers across economic, social, and cultural variables.
 
 🧠 **[Murray Lab – Computational Neuroscience](https://github.com/haleycab/murray-neuroscience-lab)]**: Analysis pipelines and modeling code for neural circuit data, including time-series analysis, neural population dynamics, and model evaluation workflows supporting research on spinal locomotor circuits.
 
