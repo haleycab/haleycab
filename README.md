@@ -6,20 +6,17 @@ Quantitative researcher working at the intersection of **data science, machine l
 
 ## 📌 Projects
 
-🌍 [World Happiness Modeling](https://github.com/haleycab/happinessproject): Statistical and machine learning analysis of global happiness indicators using ridge/lasso regression, ensemble methods, PCA, and clustering to uncover latent structure and key drivers across economic, social, and cultural variables.
+🌍 **[World Happiness Modeling](https://github.com/haleycab/happinessproject)**: Statistical and machine learning analysis of global happiness indicators using ridge/lasso regression, ensemble methods, PCA, and clustering to uncover latent structure and key drivers across economic, social, and cultural variables.
 
 
-🌱 [Quack Hacks – Sustainability & Greenwashing Analytics](https://github.com/haleycab/GreenBeans-QuackHacks2025): Hackathon project combining data analysis, NLP concepts, and interactive web visualization to surface sustainability metrics and potential greenwashing signals. Includes a public-facing **Next.js dashboard** ([site](https://nextjs-verdei.vercel.app/)) and companion frontend code ([repo](https://github.com/marytpham/nextjs-verdei)).
+🌱 **[Quack Hacks – Sustainability & Greenwashing Analytics](https://github.com/haleycab/GreenBeans-QuackHacks2025)**: Hackathon project combining data analysis, NLP concepts, and interactive web visualization to surface sustainability metrics and potential greenwashing signals. Includes a public-facing **Next.js dashboard** ([site](https://nextjs-verdei.vercel.app/)) and companion frontend code ([repo](https://github.com/marytpham/nextjs-verdei)).
 
-🧠 [Murray Lab – Computational Neuroscience](https://github.com/haleycab/murray-neuroscience-lab)
-**Murray Lab:** Analysis pipelines and modeling code for neural circuit data, including time-series analysis, neural population dynamics, and model evaluation workflows supporting research on spinal locomotor circuits.
+🧠 **Murray Lab – Computational Neuroscience](https://github.com/haleycab/murray-neuroscience-lab)**: Analysis pipelines and modeling code for neural circuit data, including time-series analysis, neural population dynamics, and model evaluation workflows supporting research on spinal locomotor circuits.
 
-🧬 [FUSRP – Axonal Signal Propagation Modeling](https://github.com/haleycab/axon-modeling-FUSRP05)
-**FUSRP:** Large-scale biophysical simulations of action potential propagation in geometrically heterogeneous axons using finite-difference solvers and reaction–diffusion PDE models to study how myelin geometry, nodal radius, and excitability shape conduction speed and failure ([team repo](https://github.com/Mathbioneurophilphyslogiccat/FUSRP-2025-Project-05)).
+🧬 **[FUSRP – Axonal Signal Propagation Modeling](https://github.com/haleycab/axon-modeling-FUSRP05)**: Large-scale biophysical simulations of action potential propagation in geometrically heterogeneous axons using finite-difference solvers and reaction–diffusion PDE models to study how myelin geometry, nodal radius, and excitability shape conduction speed and failure ([team repo](https://github.com/Mathbioneurophilphyslogiccat/FUSRP-2025-Project-05)).
 
 
-🌊 [NSF REU – Kansas Biological Survey](https://github.com/haleycab/Kansas-Biological-Survey)
-**NSF REU:** Empirical dynamical modeling and Gaussian process–based analysis of long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to characterize nonlinear population dynamics.
+🌊 **[NSF REU – Kansas Biological Survey](https://github.com/haleycab/Kansas-Biological-Survey)**:Empirical dynamical modeling and Gaussian process–based analysis of long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to characterize nonlinear population dynamics.
 
 ---
 
@@ -67,7 +64,3 @@ Quantitative researcher working at the intersection of **data science, machine l
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/HPC-Talapas-4B8BBE?style=flat"/>
 </p>
-
----
-
-If you’re interested in collaboration, research, or applied ML work, feel free to reach out.
