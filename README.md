@@ -4,7 +4,7 @@ Quantitative researcher working at the intersection of **data science, machine l
 
 ---
 
-## 📌 Check out my Repositories:
+## Check out my Repositories:
 
 
 🌱 **[Quack Hacks – Sustainability & Greenwashing Analytics](https://github.com/haleycab/GreenBeans-QuackHacks2025)**: Hackathon project combining data analysis, NLP concepts, and interactive web visualization to surface sustainability metrics and potential greenwashing signals. Includes a public-facing **Next.js dashboard** ([site](https://nextjs-verdei.vercel.app/)) and companion frontend code ([repo](https://github.com/marytpham/nextjs-verdei)).
