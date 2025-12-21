@@ -1,19 +1,24 @@
 # Haley Cabrera
 
+<h1>Haley Cabrera</h1>
+
 <table>
-<tr>
-<td width="50%">
-
-Quantitative researcher working at the intersection of **data science, machine learning, and computational neuroscience**. I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML, with applications in neuroscience, ecology, and sustainability.
-
-</td>
-<td width="50%" align="center">
-
-<img src="Cabrera142.jpg" width="180" style="border-radius: 50%;"/>
-
-</td>
-</tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 16px;">
+      <p>
+        Quantitative researcher working at the intersection of <b>data science, machine learning, and computational neuroscience</b>.
+        I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML,
+        with applications in neuroscience, ecology, and sustainability.
+      </p>
+    </td>
+    <td style="width: 220px; vertical-align: top;" align="right">
+      <img src="Cabrera142.jpg" width="180" />
+    </td>
+  </tr>
 </table>
+
+<hr/>
+
 
 ---
 
