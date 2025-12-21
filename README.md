@@ -2,12 +2,21 @@
 
 <table>
   <tr>
-    <td style="width: 260px; vertical-align: top;" align="center">
-      <img src="Cabrera142.jpg" width="800" style="border-radius: 50%;" />
+    <td style="width: 300px; vertical-align: top;" align="center">
+      <img src="Cabrera142.jpg" width="260" style="border-radius: 50%;" />
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <big> Hi I’m Haley 👋  I do data science for living systems 🧠🌍.  I like understanding how complex systems work, especially when the data is messy and the dynamics are nonlinear. My work blends machine learning, statistical modeling, and biophysical simulation to study neurons, ecosystems, and social systems.
-      </big>
+    <td style="vertical-align: top; padding-left: 24px;">
+      <h2>
+        Hi, I’m Haley 👋
+      </h2>
+      <h3>
+        I do data science for living systems 🧠🌍
+      </h3>
+      <p style="font-size: 18px; line-height: 1.5;">
+        I like understanding how complex systems work — especially when the data is messy and the dynamics are nonlinear.
+        My work blends <b>machine learning</b>, <b>statistical modeling</b>, and <b>biophysical simulation</b> to study
+        neurons, ecosystems, and social systems.
+      </p>
     </td>
   </tr>
 </table>
