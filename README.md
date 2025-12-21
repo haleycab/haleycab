@@ -6,10 +6,7 @@
       <img src="Cabrera142.jpg" width="800" style="border-radius: 50%;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <big>
-  I’m Haley — I do data science for living systems 🧠🌍. 
-  I build ML + dynamical models for neuroscience, ecology, and sustainability datasets
-
+      <big> Hi I’m Haley 👋  I do data science for living systems 🧠🌍.  I like understanding how complex systems work, especially when the data is messy and the dynamics are nonlinear. My work blends machine learning, statistical modeling, and biophysical simulation to study neurons, ecosystems, and social systems.
       </big>
     </td>
   </tr>
