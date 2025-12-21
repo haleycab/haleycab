@@ -9,7 +9,7 @@ Quantitative researcher working at the intersection of **data science, machine l
 </td>
 <td width="35%" align="center">
 
-<img src="images/cabrera142.jpg" width="180" style="border-radius: 50%;"/>
+<img src="cabrera142.jpg" width="180" style="border-radius: 50%;"/>
 
 </td>
 </tr>
