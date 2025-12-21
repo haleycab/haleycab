@@ -7,9 +7,9 @@
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <big>
-      Quantitative researcher working at the intersection of <b>data science, machine learning, and computational neuroscience</b>.
-      I focus on extracting structure from complex, noisy datasets using statistical modeling, dynamical systems, and modern ML,
-      with applications in neuroscience, ecology, and sustainability.
+  I’m Haley — I do data science for living systems 🧠🌍. 
+  I build ML + dynamical models for neuroscience, ecology, and sustainability datasets
+
       </big>
     </td>
   </tr>
