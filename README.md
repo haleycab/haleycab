@@ -4,7 +4,7 @@ Quantitative researcher working at the intersection of **data science, machine l
 
 ---
 
-## 📌 Projects
+## 📌 Check out my Repositories:
 
 
 🌱 **[Quack Hacks – Sustainability & Greenwashing Analytics](https://github.com/haleycab/GreenBeans-QuackHacks2025)**: Hackathon project combining data analysis, NLP concepts, and interactive web visualization to surface sustainability metrics and potential greenwashing signals. Includes a public-facing **Next.js dashboard** ([site](https://nextjs-verdei.vercel.app/)) and companion frontend code ([repo](https://github.com/marytpham/nextjs-verdei)).
@@ -19,7 +19,7 @@ Quantitative researcher working at the intersection of **data science, machine l
 🌊 **[NSF REU – Kansas Biological Survey](https://github.com/haleycab/Kansas-Biological-Survey)**:Empirical dynamical modeling and Gaussian process–based analysis of long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to characterize nonlinear population dynamics.
 
 
-## 🔗 Connect
+## 🔗 Connect with me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haleyanncabrera/" target="_blank">
@@ -34,7 +34,7 @@ Quantitative researcher working at the intersection of **data science, machine l
 </p>
 
 
-## 🧰 Tools & Tech Stack
+## 🧰 My Tools & Tech Stack
 
 Programming & Scientific Computing
 <p>
