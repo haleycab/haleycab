@@ -6,12 +6,8 @@
       <img src="Cabrera142.jpg" width="500" style="border-radius: 50%;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px;">
-      <h2>
         Hi, I’m Haley 👋
-      </h2>
-      <h3>
         I do data science for living systems 🧠🌍
-      </h3>
       <p style="font-size: 18px; line-height: 1.5;">
         I like understanding how complex systems work — especially when the data is messy and the dynamics are nonlinear.
         My work blends <b>machine learning</b>, <b>statistical modeling</b>, and <b>biophysical simulation</b> to study
