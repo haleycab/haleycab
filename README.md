@@ -10,7 +10,7 @@
         Hi, I’m Haley!
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
-        I like understanding how complex systems work — especially when the data is messy and the dynamics are nonlinear.
+        I like understanding how complex systems work — especially when the data is multimodal and the dynamics are nonlinear.
         My work blends <b>machine learning</b>, <b>statistical modeling</b>, and <b>biophysical simulation</b> to study
         neuroscience, the environment, and social systems.
       </p>
