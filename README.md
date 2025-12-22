@@ -5,9 +5,9 @@
     <td style="width: 300px; vertical-align: top;" align="center">
       <img src="Cabrera142.jpg" width="500" style="border-radius: 50%;" />
     </td>
-    <td style="vertical-align: top; padding-left: 24px;">
+    <td style="vertical-align: top; padding-left: 16px;">
       <h2>
-    I apply mathematics & data science to diverse areas 🌱 🌍 🧠 🧬 🌊
+    I enjoy applying mathematics & data science to diverse areas that pique my interest 🌱 🌍 🧠 🧬 🌊
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
         I like understanding how complex systems work, especially when the data is multimodal and the dynamics are nonlinear.
