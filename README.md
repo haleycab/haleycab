@@ -29,7 +29,7 @@
 
 🌍 **[World Happiness Modeling](https://github.com/haleycab/happinessproject)**: Statistical and machine learning analysis of global happiness indicators using ridge/lasso regression, ensemble methods, PCA, and clustering to uncover latent structure and key drivers across economic, social, and cultural variables.
 
-🧠 **[Murray Lab – Computational Neuroscience](https://github.com/haleycab/murray-neuroscience-lab)]**: Analysis pipelines and modeling code for neural circuit data, including time-series analysis, neural population dynamics, and model evaluation workflows supporting research on spinal locomotor circuits.
+🧠 **[Murray Lab – Computational Neuroscience](https://github.com/haleycab/murray-neuroscience-lab)**: Analysis pipelines and modeling code for neural circuit data, including time-series analysis, neural population dynamics, and model evaluation workflows supporting research on spinal locomotor circuits.
 
 ⚡ **[FUSRP – Axonal Signal Propagation Modeling](https://github.com/haleycab/axon-modeling-FUSRP05)**: Large-scale biophysical simulations of action potential propagation in geometrically heterogeneous axons using finite-difference solvers and reaction–diffusion PDE models to study how myelin geometry, nodal radius, and excitability shape conduction speed and failure ([team repo](https://github.com/Mathbioneurophilphyslogiccat/FUSRP-2025-Project-05)).
 
