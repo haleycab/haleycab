@@ -35,7 +35,7 @@
 
 🧬 **[WiDS Datathon 2025 – Multimodal Brain Modeling](https://github.com/haleycab/WiDsDatathon)**: Multimodal machine learning analysis of fMRI functional connectomes and socio-demographic metadata to predict ADHD diagnosis and sex, comparing gradient-boosted models, feed-forward neural networks, and graph neural networks to study how brain connectivity and demographic factors jointly inform neurodevelopmental diagnoses ([team repo](https://github.com/itszoetom/WiDSdatathon)).
 
-🌊 **[NSF REU – Kansas Biological Survey](https://github.com/haleycab/Kansas-Biological-Survey)**:Empirical dynamical modeling and Gaussian process–based analysis of long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to characterize nonlinear population dynamics.
+🌊 **[NSF REU – Kansas Biological Survey](https://github.com/haleycab/Kansas-Biological-Survey)**: Empirical dynamical modeling and Gaussian process–based analysis of long-term NOAA ecological time-series data, using cross-validated forecasting and perturbation-based simulations to characterize nonlinear population dynamics.
 
 
 ## 🔗 Connect with me!
