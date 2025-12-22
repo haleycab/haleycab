@@ -7,10 +7,10 @@
     </td>
     <td style="vertical-align: top; padding-left: 16px;">
       <h2>
-    I enjoy applying mathematics & data science to answer questions in diverse areas of interest 🌱 🌍 🧠 🧬 🌊
+     Driven to understanding how complex systems work 🌱 🌍 🧠 🧬 🌊
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
-        Driven to understand how complex systems work, especially when the data is multimodal and the dynamics are nonlinear.
+        I enjoy applying mathematics & data science to answer questions in diverse areas, especially when the data is multimodal and the dynamics are nonlinear.
         My work blends <b>machine learning</b>, <b>statistical modeling</b>, and <b>biophysical simulation</b> to study
         neuroscience, the environment, and social systems.
       </p>
