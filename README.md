@@ -1,4 +1,5 @@
 <h1>Haley Cabrera</h1>
+<hr/>
 
 <table>
   <tr>
