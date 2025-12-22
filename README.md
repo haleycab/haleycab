@@ -11,8 +11,8 @@
      Driven to understanding how complex systems work 🌱 🌍 🧠 🧬 🌊 ⚡ 
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
-        I enjoy applying mathematics & data science to answer questions in diverse areas, especially when the data is multimodal and the dynamics are nonlinear.
-        My work blends <b>machine learning</b>, <b>statistical modeling</b>, and <b>biophysical simulation</b> to study
+        I enjoy applying mathematics & data science to answer questions in diverse areas, especially data that is multimodal and the dynamics that are nonlinear.
+        My work uses <b>machine learning</b>, <b>mathematical modeling</b>, and <b>statistical testing</b> to study
         neuroscience, the environment, and social systems.
       </p>
     </td>
