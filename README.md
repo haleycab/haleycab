@@ -7,7 +7,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 24px;">
       <h2>
-        Hi, I’m Haley!
+        Hi, I’m Haley! I apply mathematics and data science to my diverse areas of interest🌱🌍🧠🧬🌊
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
         I like understanding how complex systems work — especially when the data is multimodal and the dynamics are nonlinear.
