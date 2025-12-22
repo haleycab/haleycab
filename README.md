@@ -7,7 +7,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 16px;">
       <h2>
-    I enjoy applying mathematics & data science to diverse areas that pique my interest 🌱 🌍 🧠 🧬 🌊
+    I enjoy applying mathematics & data science to answer questions in diverse areas of interest 🌱 🌍 🧠 🧬 🌊
       </h2>
       <p style="font-size: 18px; line-height: 1.5;">
         I like understanding how complex systems work, especially when the data is multimodal and the dynamics are nonlinear.
