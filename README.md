@@ -6,7 +6,7 @@
     <td style="width: 300px; vertical-align: top;" align="center">
       <img src="Cabrera142.jpg" width="500" style="border-radius: 50%;" />
     </td>
-    <td style="vertical-align: top; padding-left: 16px;">
+    <td style="vertical-align: top; padding-left: 15px;">
       <h2>
      Driven to understanding how complex systems work 🌱 🌍 🧠 🧬 🌊 ⚡ 
       </h2>
